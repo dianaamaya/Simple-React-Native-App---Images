@@ -4,7 +4,8 @@ This application allows users to select an image from the phone or computer and 
 
 ## INSTALATION
 
-Install dependencies, in main folder write: npm install 
+- You must install expo. you can get it here: https://expo.io/
+- Install dependencies, in main folder write: npm install 
 
 ## RUN PROJECT
 
